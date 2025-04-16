@@ -10,4 +10,4 @@ Here we provide code, data and a tutorial showing how the analyses in Berg et al
   - ***rdata***: with the .RData files of the model selection results and the summary results.
   - ***tables***: Tables 1-3, S2-S3.
 
-The current release is available at the Zenodo repository 
+The current release is available at the Zenodo repository [![DOI](https://zenodo.org/badge/884667788.svg)](https://doi.org/10.5281/zenodo.15227880)
